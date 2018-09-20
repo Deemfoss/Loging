@@ -1,0 +1,32 @@
+Hosting starting
+Hosting started
+Loaded hosting startup assembly Loging
+Loaded hosting startup assembly Microsoft.AspNetCore.ApplicationInsights.HostingStartup
+Connection id "0HLGQ8KRS123K" started.
+Connection id "0HLGQ8KRS123J" started.
+Connection id "0HLGQ8KRS123J" received FIN.
+Connection id "0HLGQ8KRS123K" received FIN.
+Connection id "0HLGQ8KRS123J" disconnecting.
+Connection id "0HLGQ8KRS123K" disconnecting.
+Connection id "0HLGQ8KRS123J" sending FIN.
+Connection id "0HLGQ8KRS123K" sending FIN.
+Connection id "0HLGQ8KRS123K" stopped.
+Connection id "0HLGQ8KRS123J" stopped.
+Connection id "0HLGQ8KRS123L" started.
+Connection id "0HLGQ8KRS123M" started.
+Request starting HTTP/1.1 GET http://localhost:65212/  
+processing Request /
+Connection id "0HLGQ8KRS123L" completed keep alive response.
+Request finished in 184.3263ms 200 
+Request starting HTTP/1.1 GET http://localhost:65212/favicon.ico  
+processing Request /favicon.ico
+Connection id "0HLGQ8KRS123L" completed keep alive response.
+Request finished in 67.7414ms 200 
+Connection id "0HLGQ8KRS123M" received FIN.
+Connection id "0HLGQ8KRS123M" disconnecting.
+Connection id "0HLGQ8KRS123M" sending FIN.
+Connection id "0HLGQ8KRS123M" stopped.
+Connection id "0HLGQ8KRS123L" received FIN.
+Connection id "0HLGQ8KRS123L" disconnecting.
+Connection id "0HLGQ8KRS123L" stopped.
+Connection id "0HLGQ8KRS123L" sending FIN.
